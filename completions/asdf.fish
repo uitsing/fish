@@ -1,0 +1,1 @@
+/Users/uitsing/.asdf/completions/asdf.fish
